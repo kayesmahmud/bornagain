@@ -1,1 +1,1 @@
-Ita born Again Rails App
+It's a   Rails App
